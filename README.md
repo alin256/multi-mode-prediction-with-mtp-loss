@@ -1,1 +1,1 @@
-multi-mode-prediction-with-mtp-loss
+# A multi-trajectory-predction loss implementation in PyTorch
