@@ -4,6 +4,19 @@ This is a customized implementation of the multi-trajectory-prediction (MTP) los
 
 ## How to cite:
 
+If you want to adopt the code in your research, please cite the original paper:
+
+Alyaev, S., & Elsheikh, A. (2021).  Direct multi-modal inversion of geophysical logs using a deep neural network. Sumitted to Geophysical Research Letters.
+
+```
+@article{alyaev2021direct,
+  title={Direct multi-modal inversion of geophysical logs using a deep neural network},
+  author={Alyaev, Sergey and Elsheikh, Ahmed},
+  journal={Sumitted to Geophysical Research Letters},
+  year={2021}
+}
+```
+
 ## Acknowledgements
 
 This work is part of the Center for Research-based Innovation DigiWells: Digital Well Center for Value Creation, Competitiveness and Minimum Environmental Footprint (NFR SFI project no. 309589, DigiWells.no). The center is a cooperation of NORCE Norwegian Research Centre, the University of Stavanger, the Norwegian University of Science and Technology (NTNU), and the University of Bergen, and funded by the Research Council of Norway, Aker BP, ConocoPhillips, Equinor, Lundin, Total, and Wintershall Dea.
