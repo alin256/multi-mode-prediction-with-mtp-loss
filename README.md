@@ -1,6 +1,6 @@
 # A multi-trajectory-prediction loss implementation in PyTorch
 
-This is a customized implementation of the multi-trajectory-prediction (MTP) loss introduced in [cui2019multimodal](https://arxiv.org/abs/1809.10732) in PyTorch. The source code was developed for the paper **alyaev2021direct** (see below).
+This is our customized implementation of the multi-trajectory-prediction (MTP) loss introduced in [cui2019multimodal](https://arxiv.org/abs/1809.10732) in PyTorch. The source code was developed for the paper **alyaev2021direct** (see below).
 
 ## How to cite:
 
