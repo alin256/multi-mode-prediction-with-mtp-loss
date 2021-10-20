@@ -1,1 +1,1 @@
-# A multi-trajectory-predction loss implementation in PyTorch
+# A multi-trajectory-prediction loss implementation in PyTorch
