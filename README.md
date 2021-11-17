@@ -6,13 +6,13 @@ This is our customized implementation of the multi-trajectory-prediction (MTP) l
 
 If you want to adopt the code in your research, please cite the original paper:
 
-Alyaev, S., & Elsheikh, A.H. (2021).  Direct multi-modal inversion of geophysical logs using a deep neural network. Sumitted to Geophysical Journal International.
+Alyaev, S., & Elsheikh, A.H. (2021).  Direct multi-modal inversion of geophysical logs using a deep neural network. Submitted to Geophysical Journal International.
 
 ```
 @article{alyaev2021direct,
   title={Direct multi-modal inversion of geophysical logs using a deep neural network},
   author={Alyaev, Sergey and Elsheikh, Ahmed H.},
-  journal={Sumitted to Geophysical Journal International},
+  journal={Submitted to Geophysical Journal International},
   year={2021}
 }
 ```
