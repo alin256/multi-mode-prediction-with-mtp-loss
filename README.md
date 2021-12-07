@@ -12,7 +12,7 @@ Alyaev, S., & Elsheikh, A.H. (2021).  Direct multi-modal inversion of geophysica
 @article{alyaev2021direct,
   title={Direct multi-modal inversion of geophysical logs using a deep neural network},
   author={Alyaev, Sergey and Elsheikh, Ahmed H.},
-  journal={Submitted to Geophysical Journal International},
+  journal={Submitted to Journal of Geophysical Research: Solid Earth},
   year={2021}
 }
 ```
