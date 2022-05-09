@@ -31,10 +31,8 @@ Please use the link/bibtex to its deposited version:
   author       = {Sergey Alyaev},
   title        = {{alin256/multi-mode-prediction-with-mtp-loss: The 
                    release for archiving of the initial release}},
-  month        = may,
   year         = 2022,
   publisher    = {Zenodo},
-  version      = {v1.1},
   doi          = {10.5281/zenodo.6531510},
   url          = {https://doi.org/10.5281/zenodo.6531510}
 }
