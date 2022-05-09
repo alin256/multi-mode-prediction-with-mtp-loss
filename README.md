@@ -23,6 +23,7 @@ Alyaev, S., & Elsheikh, A.H. (2021).  Direct multi-modal inversion of geophysica
 ### To cite this code
 
 Please use the link/bibtex to its deposited version:
+
 <a href="https://zenodo.org/badge/latestdoi/419341104"><img src="https://zenodo.org/badge/419341104.svg" alt="DOI"></a>
 
 ```
